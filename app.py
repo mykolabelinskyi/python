@@ -1,6 +1,5 @@
-name = input("Введите логин:',)
+name = input('Введите логин:',)
 parol = input('Введите ваш пароль:',)
 
-print(ʼВаш логин:ʼ, name)
-print(´Ваш пароль:ʼ, parol)
-    
+print ('Ваш логин:', name)
+print ('Ваш пароль:', parol)
